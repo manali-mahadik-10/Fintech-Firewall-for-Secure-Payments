@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build
+dist/
+build/
+
+# Environment
+.env
+.env.local
+
+# IDE/OS
+.vscode/
+.DS_Store
+Thumbs.db
